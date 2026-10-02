@@ -1,0 +1,20 @@
+{
+    "login": {
+        "valid_username": "standard_user",
+        "valid_password": "secret_sauce",
+        "invalid_username": "invalid_user",
+        "invalid_password": "wrong_password",
+        "locked_username": "locked_out_user"
+    },
+
+    "customer": {
+        "first_name": "Shravani",
+        "last_name": "Sawant",
+        "postal_code": "400001"
+    },
+
+    "products": {
+        "backpack": "Sauce Labs Backpack",
+        "bike_light": "Sauce Labs Bike Light"
+    }
+}
